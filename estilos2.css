@@ -108,8 +108,8 @@ body{
 }
 
 #imag{
-    width: 50%;
-    max-width: 58rem;
+    width: 100%;
+    max-width: 38rem;
     padding: 2rem;
     background-color:rgba(102, 102, 102, 0.7) ;
     box-shadow: 0 1.4rem 8rem rgba(0, 0, 0, .2);
@@ -117,7 +117,7 @@ body{
     align-items: center;
     border-radius: .8rem;
     margin-bottom: 20px;
-    margin-left:300px ;
+    margin-left:470px ;
     text-align: left;
 }
 

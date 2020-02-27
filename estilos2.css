@@ -108,8 +108,8 @@ body{
 }
 
 #imag{
-    width: 100%;
-    max-width: 38rem;
+    width: 70%;
+    max-width: 58rem;
     padding: 2rem;
     background-color:rgba(102, 102, 102, 0.7) ;
     box-shadow: 0 1.4rem 8rem rgba(0, 0, 0, .2);

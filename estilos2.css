@@ -107,7 +107,7 @@ body{
 
 }
 
-#imag{
+.blog-postt{
     width: 100%;
     max-width: 38rem;
     padding: 2rem;

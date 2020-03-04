@@ -160,7 +160,7 @@ body{
 }
 #seccion2{
     
-    margin-left: 200px;
+    margin-left: 400px;
 }
 
 .texto{
@@ -208,7 +208,7 @@ time{
         margin-left: auto;
     }
     #seccion2{
-        margin: auto;
+        margin-left: auto;
     }
 
     .Cabecera2, .texto1, .texto2, .agrupa{

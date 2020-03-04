@@ -177,8 +177,13 @@ p{
     box-shadow: 0 5px 15px rgba(0, 0, 0, 1);
 }
 @media screen and (max-width: 1248px){
-    .blog-post, .blog-postt{
+    .blog-post,{
         margin-left: 200px;
+        width: 70%;
+
+    }
+    .blog-postt{
+        margin-left: 300px;
         width: 70%;
 
     }

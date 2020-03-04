@@ -160,6 +160,7 @@ body{
 .seccion{
     padding: 20px;
     width: 600px;
+    margin-left: 190px;
     background: rgba(185, 185, 184, 0.5);
     margin-bottom: 30px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 1);

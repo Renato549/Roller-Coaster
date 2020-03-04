@@ -204,12 +204,10 @@ time{
     box-shadow: 0 5px 15px rgba(0, 0, 0, 1);
 }
 @media screen and (max-width: 1248px){
-    #Seccion1{
+    #Seccion1, #seccion2{
         margin-left: auto;
     }
-    #seccion2{
-        margin-left: auto;
-    }
+
     .Cabecera2, .texto1, .texto2, .agrupa{
         margin-left: auto;
     }

@@ -120,6 +120,16 @@ body{
     background: rgba(33, 41, 33, 0.5);
 
 }
+
+
+#agruparr2{
+    width: auto;
+    padding: 50px;
+    margin:30px auto;
+    background: rgba(33, 41, 33, 0);
+
+}
+
 .cabecera{
     background:none;
     
@@ -160,7 +170,7 @@ body{
 }
 #seccion2{
     
-    margin-left: 305px;
+    margin-left: 350px;
 } 
 
 .texto{
